@@ -1,1 +1,1 @@
-# PrjHaskell
+# prjhaskell
